@@ -16,20 +16,22 @@
 
 
 
-@import "https://tiredmala.github.io/Roundmoled/optional/blur.css";
+.backdrop-29yll0, .layer-2KE1M9
+{
+    backdrop-filter: blur(5px);
+}
+
+
+/* @import "https://tiredmala.github.io/Roundmoled/optional/optional2.css"; */
 
 
 
-@import "https://tiredmala.github.io/Roundmoled/optional/optional2.css";
+/* @import "https://tiredmala.github.io/Roundmoled/optional/optional3.css"; */
 
-
-/*
-@import "https://tiredmala.github.io/Roundmoled/optional/optional3.css";
-*/
 
 /*                                Alternative color palettes                                                                      */ 
 
 
 
-@import "https://tiredmala.github.io/Roundmoled/palettes/roundturnal.css";
+/* @import "https://tiredmala.github.io/Roundmoled/palettes/roundturnal.css"; */
 
